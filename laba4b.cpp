@@ -11,7 +11,6 @@ struct Reference {
     std::string year;
     std::string page;
 };
-//приvet
 bool isRussian(char ch) {
 
     if (ch >= 0 && ch <= 127) {
